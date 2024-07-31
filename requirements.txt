@@ -1,0 +1,5 @@
+PyOpenGL
+PyGLUT
+PyOpenGL-accelerate
+glfw
+numpy
