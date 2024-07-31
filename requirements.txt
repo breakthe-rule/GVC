@@ -2,4 +2,4 @@ PyOpenGL
 PyGLUT
 PyOpenGL-accelerate
 glfw
-numpy
+numpy==1.19.5
